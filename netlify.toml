@@ -1,0 +1,10 @@
+[build]
+  command = "bun run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Nitro's `netlify` preset emits a serverless function bundle that Netlify
+# auto-detects under `.netlify/`. No extra redirects needed — the preset
+# wires `/*` to the SSR function automatically.
