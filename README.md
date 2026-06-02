@@ -3,6 +3,10 @@
 A browser-based LiDAR point cloud annotation tool built with React, Vite,
 TanStack Start, Three.js, React Three Fiber, and Konva.
 
+#Screenshot
+<img width="1918" height="932" alt="Screenshot 2026-06-02 at 11 09 13 AM" src="https://github.com/user-attachments/assets/ac7b56ae-770f-4184-9275-0ae91fb8cff4" />
+
+
 ## Features
 
 - Interactive 3D point cloud viewer
